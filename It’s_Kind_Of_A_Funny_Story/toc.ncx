@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="c500a06d-bae1-43c1-9fb4-df44f635c55f" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.9.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>It's Kind of a Funny Story</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="855dce4f-aaf4-4643-a4da-a8709b210ebe" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src=".html_split_001"/>
+    </navPoint>
+    <navPoint class="chapter" id="9246b7c4-4151-4c80-b02a-8f5f750224ab" playOrder="2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src=".html_split_002"/>
+    </navPoint>
+    <navPoint class="chapter" id="88ff0899-e4aa-422d-8e91-99169b9d18ad" playOrder="3">
+      <navLabel>
+        <text>PART 1 : WHERE I’M AT</text>
+      </navLabel>
+      <content src=".html_split_004"/>
+      <navPoint class="chapter" id="83841a90-399e-40e5-80de-60d7a9d25585" playOrder="4">
+        <navLabel>
+          <text>Chapter one</text>
+        </navLabel>
+        <content src=".html_split_005"/>
+      </navPoint>
+      <navPoint class="chapter" id="570c9ccd-ba38-42d3-af2c-3b903277f08a" playOrder="5">
+        <navLabel>
+          <text>Chapter two</text>
+        </navLabel>
+        <content src=".html_split_006"/>
+      </navPoint>
+      <navPoint class="chapter" id="fac9a76d-863d-4170-8819-0bb14286ba6d" playOrder="6">
+        <navLabel>
+          <text>Chapter three</text>
+        </navLabel>
+        <content src=".html_split_007"/>
+      </navPoint>
+      <navPoint class="chapter" id="c5391618-c5f2-4b89-9a25-27f26dab7ac3" playOrder="7">
+        <navLabel>
+          <text>Chapter four</text>
+        </navLabel>
+        <content src=".html_split_008"/>
+      </navPoint>
+      <navPoint class="chapter" id="b9e6d749-50bf-4f33-8ce3-6efb310defa0" playOrder="8">
+        <navLabel>
+          <text>Chapter five</text>
+        </navLabel>
+        <content src=".html_split_009"/>
+      </navPoint>
+      <navPoint class="chapter" id="69885eb5-af00-4da4-a789-a458c4260cf5" playOrder="9">
+        <navLabel>
+          <text>Chapter six</text>
+        </navLabel>
+        <content src=".html_split_010"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="3418afa5-ec19-425f-9e31-2d5da7aa09d5" playOrder="10">
+      <navLabel>
+        <text>PART 2: HOW I GOT THERE</text>
+      </navLabel>
+      <content src=".html_split_011"/>
+      <navPoint class="chapter" id="ee09b6f4-6cdf-4b78-93a7-09f1e27992f5" playOrder="11">
+        <navLabel>
+          <text>Chapter seven</text>
+        </navLabel>
+        <content src=".html_split_012"/>
+      </navPoint>
+      <navPoint class="chapter" id="8cd323b9-35ff-4c2f-8948-f35980db6930" playOrder="12">
+        <navLabel>
+          <text>Chapter eight</text>
+        </navLabel>
+        <content src=".html_split_013"/>
+      </navPoint>
+      <navPoint class="chapter" id="da9d6aec-a2d4-4f4d-aced-a94cd4fc8753" playOrder="13">
+        <navLabel>
+          <text>Chapter nine</text>
+        </navLabel>
+        <content src=".html_split_014"/>
+      </navPoint>
+      <navPoint class="chapter" id="30291173-353b-46d4-9dbf-e4d9cb0c8aeb" playOrder="14">
+        <navLabel>
+          <text>Chapter ten</text>
+        </navLabel>
+        <content src=".html_split_015"/>
+      </navPoint>
+      <navPoint class="chapter" id="245965c9-9687-407d-99bd-0249eb12b3a3" playOrder="15">
+        <navLabel>
+          <text>Chapter eleven</text>
+        </navLabel>
+        <content src=".html_split_016"/>
+      </navPoint>
+      <navPoint class="chapter" id="fa0ee414-70a9-4c96-ba8f-b734be4f3167" playOrder="16">
+        <navLabel>
+          <text>Chapter twelve</text>
+        </navLabel>
+        <content src=".html_split_017"/>
+      </navPoint>
+      <navPoint class="chapter" id="3ea07946-0209-4035-a835-76948b0a9f57" playOrder="17">
+        <navLabel>
+          <text>Chapter thirteen</text>
+        </navLabel>
+        <content src=".html_split_018"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="6f46fbec-a7cf-413e-ab9a-140b37b07802" playOrder="18">
+      <navLabel>
+        <text>PART 3: BADOOM</text>
+      </navLabel>
+      <content src=".html_split_019"/>
+      <navPoint class="chapter" id="bfabd0f9-8276-4182-a213-bdc45c431627" playOrder="19">
+        <navLabel>
+          <text>Chapter fourteen</text>
+        </navLabel>
+        <content src=".html_split_020"/>
+      </navPoint>
+      <navPoint class="chapter" id="de774a0e-8459-425d-bd3e-cb130160560f" playOrder="20">
+        <navLabel>
+          <text>Chapter fifteen</text>
+        </navLabel>
+        <content src=".html_split_021"/>
+      </navPoint>
+      <navPoint class="chapter" id="23c8882e-fb32-467c-960c-2d5986a92c57" playOrder="21">
+        <navLabel>
+          <text>Chapter sixteen</text>
+        </navLabel>
+        <content src=".html_split_022"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="1060e6cb-7025-4c6c-82e4-0736ecb8aef5" playOrder="22">
+      <navLabel>
+        <text>PART 4: HOSPITAL</text>
+      </navLabel>
+      <content src=".html_split_023"/>
+      <navPoint class="chapter" id="23e422c6-a07e-4fa2-9777-301d90fae1d8" playOrder="23">
+        <navLabel>
+          <text>Chapter seventeen</text>
+        </navLabel>
+        <content src=".html_split_024"/>
+      </navPoint>
+      <navPoint class="chapter" id="3850936f-76ff-456b-bf3d-040cac78317b" playOrder="24">
+        <navLabel>
+          <text>Chapter eighteen</text>
+        </navLabel>
+        <content src=".html_split_025"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="7547b0c0-9cc1-402a-8b36-c1c44fe647e3" playOrder="25">
+      <navLabel>
+        <text>PART 5: SIX NORTH, SATURDAY</text>
+      </navLabel>
+      <content src=".html_split_026"/>
+      <navPoint class="chapter" id="3e417fcf-6688-49f2-bc0d-db6d61db9c17" playOrder="26">
+        <navLabel>
+          <text>Chapter nineteen</text>
+        </navLabel>
+        <content src=".html_split_027"/>
+      </navPoint>
+      <navPoint class="chapter" id="a58c3f6d-a6f1-4b6b-8713-9d5cd3cdae33" playOrder="27">
+        <navLabel>
+          <text>Chapter twenty</text>
+        </navLabel>
+        <content src=".html_split_028"/>
+      </navPoint>
+      <navPoint class="chapter" id="7839a604-3a4b-4808-bf17-fc1a4b7284b3" playOrder="28">
+        <navLabel>
+          <text>Chapter twenty-one</text>
+        </navLabel>
+        <content src=".html_split_029"/>
+      </navPoint>
+      <navPoint class="chapter" id="75511675-d2e8-4050-ba04-8272b013484e" playOrder="29">
+        <navLabel>
+          <text>Chapter twenty-two</text>
+        </navLabel>
+        <content src=".html_split_030"/>
+      </navPoint>
+      <navPoint class="chapter" id="b32378d8-43ab-47fe-a30e-0fea3499a218" playOrder="30">
+        <navLabel>
+          <text>Chapter twenty-three</text>
+        </navLabel>
+        <content src=".html_split_031"/>
+      </navPoint>
+      <navPoint class="chapter" id="f1c03f3e-d3a5-444a-8d98-d8257305a6d0" playOrder="31">
+        <navLabel>
+          <text>Chapter twenty-four</text>
+        </navLabel>
+        <content src=".html_split_032"/>
+      </navPoint>
+      <navPoint class="chapter" id="a543d871-8624-4b88-83c9-78368807b27e" playOrder="32">
+        <navLabel>
+          <text>Chapter twenty-five</text>
+        </navLabel>
+        <content src=".html_split_033"/>
+      </navPoint>
+      <navPoint class="chapter" id="545f5f49-1ad9-4579-8ddd-0ba3cabd5b67" playOrder="33">
+        <navLabel>
+          <text>Chapter twenty-six</text>
+        </navLabel>
+        <content src=".html_split_034"/>
+      </navPoint>
+      <navPoint class="chapter" id="f6ef87c1-7c8a-420c-8d56-e810bb636553" playOrder="34">
+        <navLabel>
+          <text>Chapter twenty-seven</text>
+        </navLabel>
+        <content src=".html_split_035"/>
+      </navPoint>
+      <navPoint class="chapter" id="fad54f8b-9aee-4340-a90f-be6ab583fe52" playOrder="35">
+        <navLabel>
+          <text>Chapter twenty-eight</text>
+        </navLabel>
+        <content src=".html_split_036"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="2a9a9780-6791-4630-b604-bfe0e858be30" playOrder="36">
+      <navLabel>
+        <text>PART 6: SIX NORTH, SUNDAY</text>
+      </navLabel>
+      <content src=".html_split_037"/>
+      <navPoint class="chapter" id="6c94e141-cb4a-449d-9fe3-550d2d714256" playOrder="37">
+        <navLabel>
+          <text>Chapter twenty-nine</text>
+        </navLabel>
+        <content src=".html_split_038"/>
+      </navPoint>
+      <navPoint class="chapter" id="ec9f0b3c-e37a-434a-a73c-563feca7bd0c" playOrder="38">
+        <navLabel>
+          <text>Chapter thirty</text>
+        </navLabel>
+        <content src=".html_split_039"/>
+      </navPoint>
+      <navPoint class="chapter" id="b881aa2b-f892-425e-864a-8b9b9456607d" playOrder="39">
+        <navLabel>
+          <text>Chapter thirty-one</text>
+        </navLabel>
+        <content src=".html_split_040"/>
+      </navPoint>
+      <navPoint class="chapter" id="e1ca63b7-1d14-4495-a803-de016a5fdbac" playOrder="40">
+        <navLabel>
+          <text>Chapter thirty-two</text>
+        </navLabel>
+        <content src=".html_split_041"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="32a5ffc7-0d59-45f1-92d9-7b555b5b7c0c" playOrder="41">
+      <navLabel>
+        <text>PART 7: SIX NORTH. MONDAY</text>
+      </navLabel>
+      <content src=".html_split_042"/>
+      <navPoint class="chapter" id="5c7d5760-236b-459b-88a3-d3b6e3b1a895" playOrder="42">
+        <navLabel>
+          <text>Chapter thirty-three</text>
+        </navLabel>
+        <content src=".html_split_043"/>
+      </navPoint>
+      <navPoint class="chapter" id="bf2dbde3-341a-4884-8382-3dfdb036d5b3" playOrder="43">
+        <navLabel>
+          <text>Chapter thirty-four</text>
+        </navLabel>
+        <content src=".html_split_044"/>
+      </navPoint>
+      <navPoint class="chapter" id="d1bbb94a-2dbd-4474-8d39-0a700674bb8b" playOrder="44">
+        <navLabel>
+          <text>Chapter thirty-five</text>
+        </navLabel>
+        <content src=".html_split_045"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="75ac15fd-cc2b-497a-a2f8-480a6e340ae4" playOrder="45">
+      <navLabel>
+        <text>PART 8 : SIX NORTH, TUESDAY</text>
+      </navLabel>
+      <content src=".html_split_046"/>
+      <navPoint class="chapter" id="f3ef4987-5a18-459c-885d-ec23ed29e91b" playOrder="46">
+        <navLabel>
+          <text>Chapter thirty-six</text>
+        </navLabel>
+        <content src=".html_split_047"/>
+      </navPoint>
+      <navPoint class="chapter" id="eb68d768-19a9-412c-b0a6-5da761ab8096" playOrder="47">
+        <navLabel>
+          <text>Chapter thirty-seven</text>
+        </navLabel>
+        <content src=".html_split_048"/>
+      </navPoint>
+      <navPoint class="chapter" id="f67259a3-571e-486e-9266-ac1eaf9ae573" playOrder="48">
+        <navLabel>
+          <text>Chapter thirty-eight</text>
+        </navLabel>
+        <content src=".html_split_049"/>
+      </navPoint>
+      <navPoint class="chapter" id="caf2b116-6db3-403b-a6e8-91f6c2f1faf3" playOrder="49">
+        <navLabel>
+          <text>Chapter thirty-nine</text>
+        </navLabel>
+        <content src=".html_split_050"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="010c25cf-6d16-4021-b09e-e0cdcebedd62" playOrder="50">
+      <navLabel>
+        <text>PART 9: SIX NORTH, WEDNESDAY</text>
+      </navLabel>
+      <content src=".html_split_051"/>
+      <navPoint class="chapter" id="55afd140-4a9d-4c53-bb10-98e84e06e3ca" playOrder="51">
+        <navLabel>
+          <text>Chapter forty</text>
+        </navLabel>
+        <content src=".html_split_052"/>
+      </navPoint>
+      <navPoint class="chapter" id="9d29a1d6-dd75-419c-a5ff-e9d0619b5a4a" playOrder="52">
+        <navLabel>
+          <text>Chapter forty-one</text>
+        </navLabel>
+        <content src=".html_split_053"/>
+      </navPoint>
+      <navPoint class="chapter" id="40025636-76bf-4724-8b5b-542ac9db1634" playOrder="53">
+        <navLabel>
+          <text>Chapter forty-two</text>
+        </navLabel>
+        <content src=".html_split_054"/>
+      </navPoint>
+      <navPoint class="chapter" id="cef771c3-a37c-47f3-9824-b4cdef6047c1" playOrder="54">
+        <navLabel>
+          <text>Chapter forty-three</text>
+        </navLabel>
+        <content src=".html_split_055"/>
+      </navPoint>
+      <navPoint class="chapter" id="a16ed898-6bb4-4b10-8855-26d86c6713e1" playOrder="55">
+        <navLabel>
+          <text>Chapter forty-four</text>
+        </navLabel>
+        <content src=".html_split_056"/>
+      </navPoint>
+      <navPoint class="chapter" id="bb8cd616-da1e-49f0-9165-13ff0ba14c50" playOrder="56">
+        <navLabel>
+          <text>Chapter forty-five</text>
+        </navLabel>
+        <content src=".html_split_057"/>
+      </navPoint>
+      <navPoint class="chapter" id="05cfe45c-ea1a-439f-9f05-2580d32198f8" playOrder="57">
+        <navLabel>
+          <text>Chapter forty-six</text>
+        </navLabel>
+        <content src=".html_split_058"/>
+      </navPoint>
+      <navPoint class="chapter" id="b6ee51fd-0d5f-47c7-b9d4-9b435b2fce6c" playOrder="58">
+        <navLabel>
+          <text>Chapter forty-seven</text>
+        </navLabel>
+        <content src=".html_split_059"/>
+      </navPoint>
+      <navPoint class="chapter" id="5796a956-e79b-4b32-a724-5927b6cbe994" playOrder="59">
+        <navLabel>
+          <text>Chapter forty-eight</text>
+        </navLabel>
+        <content src=".html_split_060"/>
+      </navPoint>
+      <navPoint class="chapter" id="5417a2b7-fd6d-40c1-b15f-9136a38250a8" playOrder="60">
+        <navLabel>
+          <text>Chapter forty-nine</text>
+        </navLabel>
+        <content src=".html_split_061"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="749943cd-d624-44a3-879d-34aaf0373e7f" playOrder="61">
+      <navLabel>
+        <text>PART 10: SIX NORTH, THURSDAY</text>
+      </navLabel>
+      <content src=".html_split_062"/>
+      <navPoint class="chapter" id="8b0aa616-4d8e-4bd7-84a4-40b36c9ee04d" playOrder="62">
+        <navLabel>
+          <text>Chapter fifty</text>
+        </navLabel>
+        <content src=".html_split_063"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

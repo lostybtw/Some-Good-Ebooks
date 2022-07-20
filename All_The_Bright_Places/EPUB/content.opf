@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package unique-identifier="id" version="3.0" xmlns="http://www.idpf.org/2007/opf" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2018-06-05T08:22:53Z</meta>
+    <meta content="Ebook-lib 0.15.0" name="generator"/>
+    <dc:identifier id="id">AllTheBrightPlaces</dc:identifier>
+    <dc:identifier>Access URL: http://archive.org/details/AllTheBrightPlaces</dc:identifier>
+    <dc:identifier>urn:ark:ark:/13960/t63559m18</dc:identifier>
+    <dc:title>All The Bright Places</dc:title>
+    <dc:description>Young adult</dc:description>
+    <dc:language>English</dc:language>
+    <dc:subject>Young adult</dc:subject>
+    <meta name="cover" content="cover-img"></meta>
+    <meta property="schema:accessibilitySummary">The publication was generated using automated character recognition, therefore it may not be an accurate rendition of the original text, and it may not offer the correct reading sequence.This publication is missing meaningful alternative text.The publication otherwise meets WCAG 2.0 Level A.</meta>
+    <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+    <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+    <meta property="schema:accessibilityControl">fullKeyboardControl</meta>
+    <meta property="schema:accessibilityControl">fullMouseControl</meta>
+    <meta property="schema:accessibilityControl">fullSwitchControl</meta>
+    <meta property="schema:accessibilityControl">fullTouchControl</meta>
+    <meta property="schema:accessibilityControl">fullVoiceControl</meta>
+  </metadata>
+  <manifest>
+    <item href="images/cover.png" id="cover-img" media-type="image/png" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="chap_0001.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="images/img_0001.png" id="image_0" media-type="image/png"/>
+    <item href="chap_0002.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/img_0002.png" id="image_1" media-type="image/png"/>
+    <item href="images/img_0003.png" id="image_2" media-type="image/png"/>
+    <item href="chap_0003.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="images/img_0004.png" id="image_3" media-type="image/png"/>
+    <item href="images/img_0005.png" id="image_4" media-type="image/png"/>
+    <item href="images/img_0006.png" id="image_5" media-type="image/png"/>
+    <item href="images/img_0007.png" id="image_6" media-type="image/png"/>
+    <item href="images/img_0008.png" id="image_7" media-type="image/png"/>
+    <item href="images/img_0009.png" id="image_8" media-type="image/png"/>
+    <item href="images/img_0010.png" id="image_9" media-type="image/png"/>
+    <item href="chap_0004.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="images/img_0011.png" id="image_10" media-type="image/png"/>
+    <item href="images/img_0012.png" id="image_11" media-type="image/png"/>
+    <item href="images/img_0013.png" id="image_12" media-type="image/png"/>
+    <item href="images/img_0014.png" id="image_13" media-type="image/png"/>
+    <item href="chap_0005.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="images/img_0015.png" id="image_14" media-type="image/png"/>
+    <item href="images/img_0016.png" id="image_15" media-type="image/png"/>
+    <item href="images/img_0017.png" id="image_16" media-type="image/png"/>
+    <item href="images/img_0018.png" id="image_17" media-type="image/png"/>
+    <item href="images/img_0019.png" id="image_18" media-type="image/png"/>
+    <item href="chap_0006.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="chap_0007.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="images/img_0020.png" id="image_19" media-type="image/png"/>
+    <item href="images/img_0021.png" id="image_20" media-type="image/png"/>
+    <item href="images/img_0022.png" id="image_21" media-type="image/png"/>
+    <item href="chap_0008.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="images/img_0023.png" id="image_22" media-type="image/png"/>
+    <item href="chap_0009.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="images/img_0024.png" id="image_23" media-type="image/png"/>
+    <item href="images/img_0025.png" id="image_24" media-type="image/png"/>
+    <item href="images/img_0026.png" id="image_25" media-type="image/png"/>
+    <item href="images/img_0027.png" id="image_26" media-type="image/png"/>
+    <item href="chap_0010.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="images/img_0028.png" id="image_27" media-type="image/png"/>
+    <item href="images/img_0029.png" id="image_28" media-type="image/png"/>
+    <item href="images/img_0030.png" id="image_29" media-type="image/png"/>
+    <item href="images/img_0031.png" id="image_30" media-type="image/png"/>
+    <item href="chap_0011.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="images/img_0032.png" id="image_31" media-type="image/png"/>
+    <item href="chap_0012.xhtml" id="chapter_11" media-type="application/xhtml+xml"/>
+    <item href="images/img_0033.png" id="image_32" media-type="image/png"/>
+    <item href="images/img_0034.png" id="image_33" media-type="image/png"/>
+    <item href="images/img_0035.png" id="image_34" media-type="image/png"/>
+    <item href="images/img_0036.png" id="image_35" media-type="image/png"/>
+    <item href="images/img_0037.png" id="image_36" media-type="image/png"/>
+    <item href="images/img_0038.png" id="image_37" media-type="image/png"/>
+    <item href="chap_0013.xhtml" id="chapter_12" media-type="application/xhtml+xml"/>
+    <item href="images/img_0039.png" id="image_38" media-type="image/png"/>
+    <item href="chap_0014.xhtml" id="chapter_13" media-type="application/xhtml+xml"/>
+    <item href="images/img_0040.png" id="image_39" media-type="image/png"/>
+    <item href="images/img_0041.png" id="image_40" media-type="image/png"/>
+    <item href="images/img_0042.png" id="image_41" media-type="image/png"/>
+    <item href="images/img_0043.png" id="image_42" media-type="image/png"/>
+    <item href="chap_0015.xhtml" id="chapter_14" media-type="application/xhtml+xml"/>
+    <item href="images/img_0044.png" id="image_43" media-type="image/png"/>
+    <item href="images/img_0045.png" id="image_44" media-type="image/png"/>
+    <item href="images/img_0046.png" id="image_45" media-type="image/png"/>
+    <item href="images/img_0047.png" id="image_46" media-type="image/png"/>
+    <item href="images/img_0048.png" id="image_47" media-type="image/png"/>
+    <item href="images/img_0049.png" id="image_48" media-type="image/png"/>
+    <item href="images/img_0050.png" id="image_49" media-type="image/png"/>
+    <item href="images/img_0051.png" id="image_50" media-type="image/png"/>
+    <item href="chap_0016.xhtml" id="chapter_15" media-type="application/xhtml+xml"/>
+    <item href="images/img_0052.png" id="image_51" media-type="image/png"/>
+    <item href="images/img_0053.png" id="image_52" media-type="image/png"/>
+    <item href="chap_0017.xhtml" id="chapter_16" media-type="application/xhtml+xml"/>
+    <item href="images/img_0054.png" id="image_53" media-type="image/png"/>
+    <item href="images/img_0055.png" id="image_54" media-type="image/png"/>
+    <item href="images/img_0056.png" id="image_55" media-type="image/png"/>
+    <item href="images/img_0057.png" id="image_56" media-type="image/png"/>
+    <item href="chap_0018.xhtml" id="chapter_17" media-type="application/xhtml+xml"/>
+    <item href="images/img_0058.png" id="image_57" media-type="image/png"/>
+    <item href="chap_0019.xhtml" id="chapter_18" media-type="application/xhtml+xml"/>
+    <item href="images/img_0059.png" id="image_58" media-type="image/png"/>
+    <item href="images/img_0060.png" id="image_59" media-type="image/png"/>
+    <item href="images/img_0061.png" id="image_60" media-type="image/png"/>
+    <item href="chap_0020.xhtml" id="chapter_19" media-type="application/xhtml+xml"/>
+    <item href="images/img_0062.png" id="image_61" media-type="image/png"/>
+    <item href="images/img_0063.png" id="image_62" media-type="image/png"/>
+    <item href="images/img_0064.png" id="image_63" media-type="image/png"/>
+    <item href="images/img_0065.png" id="image_64" media-type="image/png"/>
+    <item href="images/img_0066.png" id="image_65" media-type="image/png"/>
+    <item href="chap_0021.xhtml" id="chapter_20" media-type="application/xhtml+xml"/>
+    <item href="images/img_0067.png" id="image_66" media-type="image/png"/>
+    <item href="images/img_0068.png" id="image_67" media-type="image/png"/>
+    <item href="chap_0022.xhtml" id="chapter_21" media-type="application/xhtml+xml"/>
+    <item href="images/img_0069.png" id="image_68" media-type="image/png"/>
+    <item href="images/img_0070.png" id="image_69" media-type="image/png"/>
+    <item href="images/img_0071.png" id="image_70" media-type="image/png"/>
+    <item href="chap_0023.xhtml" id="chapter_22" media-type="application/xhtml+xml"/>
+    <item href="images/img_0072.png" id="image_71" media-type="image/png"/>
+    <item href="images/img_0073.png" id="image_72" media-type="image/png"/>
+    <item href="images/img_0074.png" id="image_73" media-type="image/png"/>
+    <item href="chap_0024.xhtml" id="chapter_23" media-type="application/xhtml+xml"/>
+    <item href="images/img_0075.png" id="image_74" media-type="image/png"/>
+    <item href="images/img_0076.png" id="image_75" media-type="image/png"/>
+    <item href="images/img_0077.png" id="image_76" media-type="image/png"/>
+    <item href="images/img_0078.png" id="image_77" media-type="image/png"/>
+    <item href="chap_0025.xhtml" id="chapter_24" media-type="application/xhtml+xml"/>
+    <item href="images/img_0079.png" id="image_78" media-type="image/png"/>
+    <item href="images/img_0080.png" id="image_79" media-type="image/png"/>
+    <item href="images/img_0081.png" id="image_80" media-type="image/png"/>
+    <item href="images/img_0082.png" id="image_81" media-type="image/png"/>
+    <item href="images/img_0083.png" id="image_82" media-type="image/png"/>
+    <item href="chap_0026.xhtml" id="chapter_25" media-type="application/xhtml+xml"/>
+    <item href="images/img_0084.png" id="image_83" media-type="image/png"/>
+    <item href="chap_0027.xhtml" id="chapter_26" media-type="application/xhtml+xml"/>
+    <item href="images/img_0085.png" id="image_84" media-type="image/png"/>
+    <item href="images/img_0086.png" id="image_85" media-type="image/png"/>
+    <item href="chap_0028.xhtml" id="chapter_27" media-type="application/xhtml+xml"/>
+    <item href="images/img_0087.png" id="image_86" media-type="image/png"/>
+    <item href="images/img_0088.png" id="image_87" media-type="image/png"/>
+    <item href="images/img_0089.png" id="image_88" media-type="image/png"/>
+    <item href="images/img_0090.png" id="image_89" media-type="image/png"/>
+    <item href="images/img_0091.png" id="image_90" media-type="image/png"/>
+    <item href="chap_0029.xhtml" id="chapter_28" media-type="application/xhtml+xml"/>
+    <item href="images/img_0092.png" id="image_91" media-type="image/png"/>
+    <item href="images/img_0093.png" id="image_92" media-type="image/png"/>
+    <item href="chap_0030.xhtml" id="chapter_29" media-type="application/xhtml+xml"/>
+    <item href="images/img_0094.png" id="image_93" media-type="image/png"/>
+    <item href="images/img_0095.png" id="image_94" media-type="image/png"/>
+    <item href="images/img_0096.png" id="image_95" media-type="image/png"/>
+    <item href="chap_0031.xhtml" id="chapter_30" media-type="application/xhtml+xml"/>
+    <item href="images/img_0097.png" id="image_96" media-type="image/png"/>
+    <item href="images/img_0098.png" id="image_97" media-type="image/png"/>
+    <item href="chap_0032.xhtml" id="chapter_31" media-type="application/xhtml+xml"/>
+    <item href="images/img_0099.png" id="image_98" media-type="image/png"/>
+    <item href="images/img_0100.png" id="image_99" media-type="image/png"/>
+    <item href="images/img_0101.png" id="image_100" media-type="image/png"/>
+    <item href="images/img_0102.png" id="image_101" media-type="image/png"/>
+    <item href="chap_0033.xhtml" id="chapter_32" media-type="application/xhtml+xml"/>
+    <item href="images/img_0103.png" id="image_102" media-type="image/png"/>
+    <item href="images/img_0104.png" id="image_103" media-type="image/png"/>
+    <item href="images/img_0105.png" id="image_104" media-type="image/png"/>
+    <item href="chap_0034.xhtml" id="chapter_33" media-type="application/xhtml+xml"/>
+    <item href="images/img_0106.png" id="image_105" media-type="image/png"/>
+    <item href="images/img_0107.png" id="image_106" media-type="image/png"/>
+    <item href="chap_0035.xhtml" id="chapter_34" media-type="application/xhtml+xml"/>
+    <item href="images/img_0108.png" id="image_107" media-type="image/png"/>
+    <item href="chap_0036.xhtml" id="chapter_35" media-type="application/xhtml+xml"/>
+    <item href="images/img_0109.png" id="image_108" media-type="image/png"/>
+    <item href="images/img_0110.png" id="image_109" media-type="image/png"/>
+    <item href="images/img_0111.png" id="image_110" media-type="image/png"/>
+    <item href="images/img_0112.png" id="image_111" media-type="image/png"/>
+    <item href="images/img_0113.png" id="image_112" media-type="image/png"/>
+    <item href="chap_0037.xhtml" id="chapter_36" media-type="application/xhtml+xml"/>
+    <item href="images/img_0114.png" id="image_113" media-type="image/png"/>
+    <item href="chap_0038.xhtml" id="chapter_37" media-type="application/xhtml+xml"/>
+    <item href="images/img_0115.png" id="image_114" media-type="image/png"/>
+    <item href="images/img_0116.png" id="image_115" media-type="image/png"/>
+    <item href="chap_0039.xhtml" id="chapter_38" media-type="application/xhtml+xml"/>
+    <item href="images/img_0117.png" id="image_116" media-type="image/png"/>
+    <item href="images/img_0118.png" id="image_117" media-type="image/png"/>
+    <item href="images/img_0119.png" id="image_118" media-type="image/png"/>
+    <item href="chap_0040.xhtml" id="chapter_39" media-type="application/xhtml+xml"/>
+    <item href="images/img_0120.png" id="image_119" media-type="image/png"/>
+    <item href="images/img_0121.png" id="image_120" media-type="image/png"/>
+    <item href="chap_0041.xhtml" id="chapter_40" media-type="application/xhtml+xml"/>
+    <item href="images/img_0122.png" id="image_121" media-type="image/png"/>
+    <item href="images/img_0123.png" id="image_122" media-type="image/png"/>
+    <item href="chap_0042.xhtml" id="chapter_41" media-type="application/xhtml+xml"/>
+    <item href="images/img_0124.png" id="image_123" media-type="image/png"/>
+    <item href="images/img_0125.png" id="image_124" media-type="image/png"/>
+    <item href="images/img_0126.png" id="image_125" media-type="image/png"/>
+    <item href="chap_0043.xhtml" id="chapter_42" media-type="application/xhtml+xml"/>
+    <item href="images/img_0127.png" id="image_126" media-type="image/png"/>
+    <item href="images/img_0128.png" id="image_127" media-type="image/png"/>
+    <item href="chap_0044.xhtml" id="chapter_43" media-type="application/xhtml+xml"/>
+    <item href="images/img_0129.png" id="image_128" media-type="image/png"/>
+    <item href="images/img_0130.png" id="image_129" media-type="image/png"/>
+    <item href="images/img_0131.png" id="image_130" media-type="image/png"/>
+    <item href="images/img_0132.png" id="image_131" media-type="image/png"/>
+    <item href="images/img_0133.png" id="image_132" media-type="image/png"/>
+    <item href="chap_0045.xhtml" id="chapter_44" media-type="application/xhtml+xml"/>
+    <item href="images/img_0134.png" id="image_133" media-type="image/png"/>
+    <item href="images/img_0135.png" id="image_134" media-type="image/png"/>
+    <item href="images/img_0136.png" id="image_135" media-type="image/png"/>
+    <item href="images/img_0137.png" id="image_136" media-type="image/png"/>
+    <item href="chap_0046.xhtml" id="chapter_45" media-type="application/xhtml+xml"/>
+    <item href="images/img_0138.png" id="image_137" media-type="image/png"/>
+    <item href="chap_0047.xhtml" id="chapter_46" media-type="application/xhtml+xml"/>
+    <item href="images/img_0139.png" id="image_138" media-type="image/png"/>
+    <item href="images/img_0140.png" id="image_139" media-type="image/png"/>
+    <item href="chap_0048.xhtml" id="chapter_47" media-type="application/xhtml+xml"/>
+    <item href="images/img_0141.png" id="image_140" media-type="image/png"/>
+    <item href="images/img_0142.png" id="image_141" media-type="image/png"/>
+    <item href="images/img_0143.png" id="image_142" media-type="image/png"/>
+    <item href="chap_0049.xhtml" id="chapter_48" media-type="application/xhtml+xml"/>
+    <item href="images/img_0144.png" id="image_143" media-type="image/png"/>
+    <item href="images/img_0145.png" id="image_144" media-type="image/png"/>
+    <item href="images/img_0146.png" id="image_145" media-type="image/png"/>
+    <item href="images/img_0147.png" id="image_146" media-type="image/png"/>
+    <item href="images/img_0148.png" id="image_147" media-type="image/png"/>
+    <item href="chap_0050.xhtml" id="chapter_49" media-type="application/xhtml+xml"/>
+    <item href="images/img_0149.png" id="image_148" media-type="image/png"/>
+    <item href="chap_0051.xhtml" id="chapter_50" media-type="application/xhtml+xml"/>
+    <item href="images/img_0150.png" id="image_149" media-type="image/png"/>
+    <item href="chap_0052.xhtml" id="chapter_51" media-type="application/xhtml+xml"/>
+    <item href="images/img_0151.png" id="image_150" media-type="image/png"/>
+    <item href="images/img_0152.png" id="image_151" media-type="image/png"/>
+    <item href="images/img_0153.png" id="image_152" media-type="image/png"/>
+    <item href="images/img_0154.png" id="image_153" media-type="image/png"/>
+    <item href="images/img_0155.png" id="image_154" media-type="image/png"/>
+    <item href="images/img_0156.png" id="image_155" media-type="image/png"/>
+    <item href="images/img_0157.png" id="image_156" media-type="image/png"/>
+    <item href="chap_0053.xhtml" id="chapter_52" media-type="application/xhtml+xml"/>
+    <item href="images/img_0158.png" id="image_157" media-type="image/png"/>
+    <item href="chap_0054.xhtml" id="chapter_53" media-type="application/xhtml+xml"/>
+    <item href="images/img_0159.png" id="image_158" media-type="image/png"/>
+    <item href="images/img_0160.png" id="image_159" media-type="image/png"/>
+    <item href="chap_0055.xhtml" id="chapter_54" media-type="application/xhtml+xml"/>
+    <item href="images/img_0161.png" id="image_160" media-type="image/png"/>
+    <item href="images/img_0162.png" id="image_161" media-type="image/png"/>
+    <item href="images/img_0163.png" id="image_162" media-type="image/png"/>
+    <item href="chap_0056.xhtml" id="chapter_55" media-type="application/xhtml+xml"/>
+    <item href="images/img_0164.png" id="image_163" media-type="image/png"/>
+    <item href="images/img_0165.png" id="image_164" media-type="image/png"/>
+    <item href="images/img_0166.png" id="image_165" media-type="image/png"/>
+    <item href="images/img_0167.png" id="image_166" media-type="image/png"/>
+    <item href="images/img_0168.png" id="image_167" media-type="image/png"/>
+    <item href="chap_0057.xhtml" id="chapter_56" media-type="application/xhtml+xml"/>
+    <item href="images/img_0169.png" id="image_168" media-type="image/png"/>
+    <item href="images/img_0170.png" id="image_169" media-type="image/png"/>
+    <item href="images/img_0171.png" id="image_170" media-type="image/png"/>
+    <item href="chap_0058.xhtml" id="chapter_57" media-type="application/xhtml+xml"/>
+    <item href="images/img_0172.png" id="image_171" media-type="image/png"/>
+    <item href="images/img_0173.png" id="image_172" media-type="image/png"/>
+    <item href="images/img_0174.png" id="image_173" media-type="image/png"/>
+    <item href="chap_0059.xhtml" id="chapter_58" media-type="application/xhtml+xml"/>
+    <item href="images/img_0175.png" id="image_174" media-type="image/png"/>
+    <item href="images/img_0176.png" id="image_175" media-type="image/png"/>
+    <item href="images/img_0177.png" id="image_176" media-type="image/png"/>
+    <item href="images/img_0178.png" id="image_177" media-type="image/png"/>
+    <item href="images/img_0179.png" id="image_178" media-type="image/png"/>
+    <item href="chap_0060.xhtml" id="chapter_59" media-type="application/xhtml+xml"/>
+    <item href="images/img_0180.png" id="image_179" media-type="image/png"/>
+    <item href="images/img_0181.png" id="image_180" media-type="image/png"/>
+    <item href="images/img_0182.png" id="image_181" media-type="image/png"/>
+    <item href="images/img_0183.png" id="image_182" media-type="image/png"/>
+    <item href="chap_0061.xhtml" id="chapter_60" media-type="application/xhtml+xml"/>
+    <item href="images/img_0184.png" id="image_183" media-type="image/png"/>
+    <item href="images/img_0185.png" id="image_184" media-type="image/png"/>
+    <item href="images/img_0186.png" id="image_185" media-type="image/png"/>
+    <item href="chap_0062.xhtml" id="chapter_61" media-type="application/xhtml+xml"/>
+    <item href="images/img_0187.png" id="image_186" media-type="image/png"/>
+    <item href="images/img_0188.png" id="image_187" media-type="image/png"/>
+    <item href="images/img_0189.png" id="image_188" media-type="image/png"/>
+    <item href="images/img_0190.png" id="image_189" media-type="image/png"/>
+    <item href="chap_0063.xhtml" id="chapter_62" media-type="application/xhtml+xml"/>
+    <item href="images/img_0191.png" id="image_190" media-type="image/png"/>
+    <item href="images/img_0192.png" id="image_191" media-type="image/png"/>
+    <item href="chap_0064.xhtml" id="chapter_63" media-type="application/xhtml+xml"/>
+    <item href="chap_0065.xhtml" id="chapter_64" media-type="application/xhtml+xml"/>
+    <item href="images/img_0193.png" id="image_192" media-type="image/png"/>
+    <item href="images/img_0194.png" id="image_193" media-type="image/png"/>
+    <item href="chap_0066.xhtml" id="chapter_65" media-type="application/xhtml+xml"/>
+    <item href="images/img_0195.png" id="image_194" media-type="image/png"/>
+    <item href="images/img_0196.png" id="image_195" media-type="image/png"/>
+    <item href="images/img_0197.png" id="image_196" media-type="image/png"/>
+    <item href="images/img_0198.png" id="image_197" media-type="image/png"/>
+    <item href="images/img_0199.png" id="image_198" media-type="image/png"/>
+    <item href="images/img_0200.png" id="image_199" media-type="image/png"/>
+    <item href="images/img_0201.png" id="image_200" media-type="image/png"/>
+    <item href="images/img_0202.png" id="image_201" media-type="image/png"/>
+    <item href="images/img_0203.png" id="image_202" media-type="image/png"/>
+    <item href="images/img_0204.png" id="image_203" media-type="image/png"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="style/style.css" id="style_nav" media-type="text/css"/>
+  </manifest>
+  <spine page-progression-direction="default" toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="nav"/>
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_18"/>
+    <itemref idref="chapter_19"/>
+    <itemref idref="chapter_20"/>
+    <itemref idref="chapter_21"/>
+    <itemref idref="chapter_22"/>
+    <itemref idref="chapter_23"/>
+    <itemref idref="chapter_24"/>
+    <itemref idref="chapter_25"/>
+    <itemref idref="chapter_26"/>
+    <itemref idref="chapter_27"/>
+    <itemref idref="chapter_28"/>
+    <itemref idref="chapter_29"/>
+    <itemref idref="chapter_30"/>
+    <itemref idref="chapter_31"/>
+    <itemref idref="chapter_32"/>
+    <itemref idref="chapter_33"/>
+    <itemref idref="chapter_34"/>
+    <itemref idref="chapter_35"/>
+    <itemref idref="chapter_36"/>
+    <itemref idref="chapter_37"/>
+    <itemref idref="chapter_38"/>
+    <itemref idref="chapter_39"/>
+    <itemref idref="chapter_40"/>
+    <itemref idref="chapter_41"/>
+    <itemref idref="chapter_42"/>
+    <itemref idref="chapter_43"/>
+    <itemref idref="chapter_44"/>
+    <itemref idref="chapter_45"/>
+    <itemref idref="chapter_46"/>
+    <itemref idref="chapter_47"/>
+    <itemref idref="chapter_48"/>
+    <itemref idref="chapter_49"/>
+    <itemref idref="chapter_50"/>
+    <itemref idref="chapter_51"/>
+    <itemref idref="chapter_52"/>
+    <itemref idref="chapter_53"/>
+    <itemref idref="chapter_54"/>
+    <itemref idref="chapter_55"/>
+    <itemref idref="chapter_56"/>
+    <itemref idref="chapter_57"/>
+    <itemref idref="chapter_58"/>
+    <itemref idref="chapter_59"/>
+    <itemref idref="chapter_60"/>
+    <itemref idref="chapter_61"/>
+    <itemref idref="chapter_62"/>
+    <itemref idref="chapter_63"/>
+    <itemref idref="chapter_64"/>
+    <itemref idref="chapter_65"/>
+  </spine>
+</package>

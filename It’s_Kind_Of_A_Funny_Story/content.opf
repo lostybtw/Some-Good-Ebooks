@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Hyperion</dc:publisher>
+    <meta name="calibre:title_sort" content="It's Kind of a Funny Story"/>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Vizzini, Ned" opf:role="aut">Ned Vizzini</dc:creator>
+    <meta name="calibre:timestamp" content="2012-05-10T07:47:52+00:00"/>
+    <dc:title>It's Kind of a Funny Story</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2010-09-23T22:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.5) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9781423141082</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c500a06d-bae1-43c1-9fb4-df44f635c55f</dc:identifier>
+    <dc:subject>b_mobi</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href=".html_split_000" id="id171" media-type="application/xhtml+xml"/>
+    <item href=".html_split_001" id="id170" media-type="application/xhtml+xml"/>
+    <item href=".html_split_002" id="id169" media-type="application/xhtml+xml"/>
+    <item href=".html_split_003" id="id168" media-type="application/xhtml+xml"/>
+    <item href=".html_split_004" id="id167" media-type="application/xhtml+xml"/>
+    <item href=".html_split_005" id="id166" media-type="application/xhtml+xml"/>
+    <item href=".html_split_006" id="id165" media-type="application/xhtml+xml"/>
+    <item href=".html_split_007" id="id164" media-type="application/xhtml+xml"/>
+    <item href=".html_split_008" id="id163" media-type="application/xhtml+xml"/>
+    <item href=".html_split_009" id="id162" media-type="application/xhtml+xml"/>
+    <item href=".html_split_010" id="id161" media-type="application/xhtml+xml"/>
+    <item href=".html_split_011" id="id160" media-type="application/xhtml+xml"/>
+    <item href=".html_split_012" id="id159" media-type="application/xhtml+xml"/>
+    <item href=".html_split_013" id="id158" media-type="application/xhtml+xml"/>
+    <item href=".html_split_014" id="id157" media-type="application/xhtml+xml"/>
+    <item href=".html_split_015" id="id156" media-type="application/xhtml+xml"/>
+    <item href=".html_split_016" id="id155" media-type="application/xhtml+xml"/>
+    <item href=".html_split_017" id="id154" media-type="application/xhtml+xml"/>
+    <item href=".html_split_018" id="id153" media-type="application/xhtml+xml"/>
+    <item href=".html_split_019" id="id152" media-type="application/xhtml+xml"/>
+    <item href=".html_split_020" id="id151" media-type="application/xhtml+xml"/>
+    <item href=".html_split_021" id="id150" media-type="application/xhtml+xml"/>
+    <item href=".html_split_022" id="id149" media-type="application/xhtml+xml"/>
+    <item href=".html_split_023" id="id148" media-type="application/xhtml+xml"/>
+    <item href=".html_split_024" id="id147" media-type="application/xhtml+xml"/>
+    <item href=".html_split_025" id="id146" media-type="application/xhtml+xml"/>
+    <item href=".html_split_026" id="id145" media-type="application/xhtml+xml"/>
+    <item href=".html_split_027" id="id144" media-type="application/xhtml+xml"/>
+    <item href=".html_split_028" id="id143" media-type="application/xhtml+xml"/>
+    <item href=".html_split_029" id="id142" media-type="application/xhtml+xml"/>
+    <item href=".html_split_030" id="id141" media-type="application/xhtml+xml"/>
+    <item href=".html_split_031" id="id140" media-type="application/xhtml+xml"/>
+    <item href=".html_split_032" id="id139" media-type="application/xhtml+xml"/>
+    <item href=".html_split_033" id="id138" media-type="application/xhtml+xml"/>
+    <item href=".html_split_034" id="id137" media-type="application/xhtml+xml"/>
+    <item href=".html_split_035" id="id136" media-type="application/xhtml+xml"/>
+    <item href=".html_split_036" id="id135" media-type="application/xhtml+xml"/>
+    <item href=".html_split_037" id="id134" media-type="application/xhtml+xml"/>
+    <item href=".html_split_038" id="id133" media-type="application/xhtml+xml"/>
+    <item href=".html_split_039" id="id132" media-type="application/xhtml+xml"/>
+    <item href=".html_split_040" id="id131" media-type="application/xhtml+xml"/>
+    <item href=".html_split_041" id="id130" media-type="application/xhtml+xml"/>
+    <item href=".html_split_042" id="id129" media-type="application/xhtml+xml"/>
+    <item href=".html_split_043" id="id128" media-type="application/xhtml+xml"/>
+    <item href=".html_split_044" id="id127" media-type="application/xhtml+xml"/>
+    <item href=".html_split_045" id="id126" media-type="application/xhtml+xml"/>
+    <item href=".html_split_046" id="id125" media-type="application/xhtml+xml"/>
+    <item href=".html_split_047" id="id124" media-type="application/xhtml+xml"/>
+    <item href=".html_split_048" id="id123" media-type="application/xhtml+xml"/>
+    <item href=".html_split_049" id="id122" media-type="application/xhtml+xml"/>
+    <item href=".html_split_050" id="id121" media-type="application/xhtml+xml"/>
+    <item href=".html_split_051" id="id120" media-type="application/xhtml+xml"/>
+    <item href=".html_split_052" id="id119" media-type="application/xhtml+xml"/>
+    <item href=".html_split_053" id="id118" media-type="application/xhtml+xml"/>
+    <item href=".html_split_054" id="id117" media-type="application/xhtml+xml"/>
+    <item href=".html_split_055" id="id116" media-type="application/xhtml+xml"/>
+    <item href=".html_split_056" id="id115" media-type="application/xhtml+xml"/>
+    <item href=".html_split_057" id="id114" media-type="application/xhtml+xml"/>
+    <item href=".html_split_058" id="id113" media-type="application/xhtml+xml"/>
+    <item href=".html_split_059" id="id112" media-type="application/xhtml+xml"/>
+    <item href=".html_split_060" id="id111" media-type="application/xhtml+xml"/>
+    <item href=".html_split_061" id="id110" media-type="application/xhtml+xml"/>
+    <item href=".html_split_062" id="id19" media-type="application/xhtml+xml"/>
+    <item href=".html_split_063" id="id18" media-type="application/xhtml+xml"/>
+    <item href=".html_split_064" id="id17" media-type="application/xhtml+xml"/>
+    <item href=".html_split_065" id="id16" media-type="application/xhtml+xml"/>
+    <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00002.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="images/00004.jpg" id="id6" media-type="image/jpeg"/>
+    <item href="images/00005.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="images/00006.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="images/00007.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="images/00008.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="images/00009.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="images/00010.jpg" id="id12" media-type="image/jpeg"/>
+    <item href="images/00011.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="images/00012.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="images/00013.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id171"/>
+    <itemref idref="id170"/>
+    <itemref idref="id169"/>
+    <itemref idref="id168"/>
+    <itemref idref="id167"/>
+    <itemref idref="id166"/>
+    <itemref idref="id165"/>
+    <itemref idref="id164"/>
+    <itemref idref="id163"/>
+    <itemref idref="id162"/>
+    <itemref idref="id161"/>
+    <itemref idref="id160"/>
+    <itemref idref="id159"/>
+    <itemref idref="id158"/>
+    <itemref idref="id157"/>
+    <itemref idref="id156"/>
+    <itemref idref="id155"/>
+    <itemref idref="id154"/>
+    <itemref idref="id153"/>
+    <itemref idref="id152"/>
+    <itemref idref="id151"/>
+    <itemref idref="id150"/>
+    <itemref idref="id149"/>
+    <itemref idref="id148"/>
+    <itemref idref="id147"/>
+    <itemref idref="id146"/>
+    <itemref idref="id145"/>
+    <itemref idref="id144"/>
+    <itemref idref="id143"/>
+    <itemref idref="id142"/>
+    <itemref idref="id141"/>
+    <itemref idref="id140"/>
+    <itemref idref="id139"/>
+    <itemref idref="id138"/>
+    <itemref idref="id137"/>
+    <itemref idref="id136"/>
+    <itemref idref="id135"/>
+    <itemref idref="id134"/>
+    <itemref idref="id133"/>
+    <itemref idref="id132"/>
+    <itemref idref="id131"/>
+    <itemref idref="id130"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+    <itemref idref="id126"/>
+    <itemref idref="id125"/>
+    <itemref idref="id124"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+  </spine>
+  <guide>
+    <reference href=".html_split_003#filepos2596" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

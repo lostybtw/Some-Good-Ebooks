@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="AllTheBrightPlaces" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>All The Bright Places</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter_0">
+      <navLabel>
+        <text>All The Bright Places</text>
+      </navLabel>
+      <content src="chap_0001.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_1">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="chap_0002.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_2">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0003.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_3">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0004.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_4">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0005.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_5">
+      <navLabel>
+        <text>I write:  Reason for not jumping: Too messy. Too public. Too crowded.</text>
+      </navLabel>
+      <content src="chap_0006.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_6">
+      <navLabel>
+        <text>Eleanor Markey, 18, a senior at Bartlett High School and member of the student congress, lost control of her car on A Street Bridge at approximately 12:45 a.m.</text>
+      </navLabel>
+      <content src="chap_0007.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_7">
+      <navLabel>
+        <text>FINCH’S RULES FOR WANDERING</text>
+      </navLabel>
+      <content src="chap_0008.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_8">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0009.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_9">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0010.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_10">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0011.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_11">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0012.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_12">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0013.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_13">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0014.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_14">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0015.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_15">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0016.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_16">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0017.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_17">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0018.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_18">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0019.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_19">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0020.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_20">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0021.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_21">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0022.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_22">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0023.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_23">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0024.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_24">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0025.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_25">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0026.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_26">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0027.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_27">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0028.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_28">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0029.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_29">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0030.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_30">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0031.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_31">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0032.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_32">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0033.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_33">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0034.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_34">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0035.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_35">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0036.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_36">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0037.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_37">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0038.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_38">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0039.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_39">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0040.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_40">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0041.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_41">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0042.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_42">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0043.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_43">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0044.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_44">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0045.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_45">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0046.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_46">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0047.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_47">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0048.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_48">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0049.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_49">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0050.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_50">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0051.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_51">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0052.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_52">
+      <navLabel>
+        <text>FINCH</text>
+      </navLabel>
+      <content src="chap_0053.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_53">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0054.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_54">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0055.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_55">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0056.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_56">
+      <navLabel>
+        <text>April 26 (part two)</text>
+      </navLabel>
+      <content src="chap_0057.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_57">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0058.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_58">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0059.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_59">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0060.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_60">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0061.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_61">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0062.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_62">
+      <navLabel>
+        <text>VIOLET</text>
+      </navLabel>
+      <content src="chap_0063.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_63">
+      <navLabel>
+        <text>AUTHOR’S NOTE</text>
+      </navLabel>
+      <content src="chap_0064.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_64">
+      <navLabel>
+        <text>ACKNOWLEDGMENTS</text>
+      </navLabel>
+      <content src="chap_0065.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_65">
+      <navLabel>
+        <text>ABOUT THE AUTHOR</text>
+      </navLabel>
+      <content src="chap_0066.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
